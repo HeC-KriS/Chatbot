@@ -1,0 +1,16 @@
+peak,voices,0,rate,150
+time,%d/%m/%Y %H:%M,The date is,%m/%d/%y,And the time is,%H %M
+weather,Which place weather report would u like to surf for,which place?  , Opening Weather Report in your browser...,1,https://www.google.com/search?q=weather+in+
+song,What would you like to listen to?,Type song name......  ,Opening your default browser...,1,https://www.google.com/search?q=song
+search,What would you like to search for?,What would you like to search for?  ,Opening your default browser...,1,https://www.google.com/search?q=
+greetings,type quit to exit,type 'hi' or 'hello' or 'hey' to start After starting... type your name and begin...  type 'search' to search for something type 'time' or 'what's the time' for the date and time I can do everything  P.S - I'm not case sensitive, ,Lets get started 
+help,What's your name?,How can I help you,?
+feedback,Opening your default browser...,1,What did u get from google this will improve my perfomance?,https://www.google.com/search?q=
+feedback2, Didn't get it,Use the keywords song or weather or time or search,If its something else type 'new',Enter again: 
+time,Time
+search,Search
+song,Song
+weather, Weather
+name,ASH A.K.A Artificial Super Human created by TRKE Company owned by Mast. Krishvin Raam. M and Mast. Tharak Enjamur
+name,Name
+good,bad
